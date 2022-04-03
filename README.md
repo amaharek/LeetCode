@@ -3,7 +3,7 @@
 |  Solution   | Problem Statement             | Difficulty |      Tags       |
 |:-----------:|-------------------------------|:----------:|:---------------:|
 | [LC0001.py] | [Two Sum]                     |    Easy    |                 |
-| [LC0268.py] | [Missing Number]              |    Easy    |   Cyclic Sort   |
+| [LC0268.py] | [Missing Number]              |    Easy    | Sort & Hashset  |
 | [LC0968.py] | [Interval List Intersections] |   Medium   | Merge Intervals |
 
 [//]: # (Solutions)
