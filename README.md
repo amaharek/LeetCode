@@ -1,11 +1,12 @@
 # LeetCode
 
-|  Solution   | Problem Statement             | Difficulty |      Tags       |
-|:-----------:|-------------------------------|:----------:|:---------------:|
-| [LC0001.py] | [Two Sum]                     |    Easy    |                 |
-| [LC0268.py] | [Missing Number]              |    Easy    | Sort & Hashset  |
-| [LC0968.py] | [Interval List Intersections] |   Medium   | Merge Intervals |
-| [LC0977.py] | [Squares of a Sorted Array]   |    Easy    |  Two Pointers   |
+|  Solution   | Problem Statement                                                       | Difficulty |      Tags       |
+|:-----------:|-------------------------------------------------------------------------|:----------:|:---------------:|
+| [LC0001.py] | [Two Sum]                                                               |    Easy    |                 |
+| [LC0268.py] | [Missing Number]                                                        |    Easy    | Sort & Hashset  |
+| [LC0968.py] | [Interval List Intersections]                                           |   Medium   | Merge Intervals |
+| [LC0977.py] | [Squares of a Sorted Array]                                             |    Easy    |  Two Pointers   |
+| [LC1460.py] | [Make Two Arrays Equal by Reversing Sub-arrays] (Reverse to Make Equal) |    Easy    |                 |
 
 [//]: # (Solutions)
 
@@ -20,3 +21,6 @@
 
 [LC0977.py]: Solutions/LC0977.py?ts=4
 [Squares of a Sorted Array]: https://leetcode.com/problems/squares-of-a-sorted-array/
+
+[LC1460.py]: Solutions/LC1460.py?ts=4
+[Make Two Arrays Equal by Reversing Sub-arrays]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
