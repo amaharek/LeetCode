@@ -5,8 +5,9 @@
 | [LC0001.py] | [Two Sum]                                                               |    Easy    |                         |
 | [LC0092.py] | [Reverse Linked List II]                                                |   Medium   | In-Place Reversal of LL |
 | [LC0102.py] | [Binary Tree Level Order Traversal]                                     |   Medium   |           BFS           |
-| [LC0103.py] | [Binary Tree Zigzag Level Order Traversal]                                     |   Medium   |           BFS           |
+| [LC0103.py] | [Binary Tree Zigzag Level Order Traversal]                              |   Medium   |           BFS           |
 | [LC0107.py] | [Binary Tree Level Order Traversal II]                                  |   Medium   |           BFS           |
+| [LC0121.py] | [Best Time to Buy and Sell Stock]                                       |    Easy    |                         |
 | [LC0206.py] | [Reverse Linked List]                                                   |    Easy    | In-Place Reversal of LL |
 | [LC0268.py] | [Missing Number]                                                        |    Easy    |     Sort & Hashset      |
 | [LC0968.py] | [Interval List Intersections]                                           |   Medium   |     Merge Intervals     |
@@ -29,6 +30,9 @@
 
 [LC0107.py]: Solutions/LC0107.py?ts=4
 [Binary Tree Level Order Traversal II]: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+
+[LC0121.py]: Solutions/LC0121.py?ts=4
+[Best Time to Buy and Sell Stock]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 [LC0206.py]: Solutions/LC0206.py?ts=4
 [Reverse Linked List]: https://leetcode.com/problems/reverse-linked-list/
