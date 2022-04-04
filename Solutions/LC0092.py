@@ -1,8 +1,18 @@
+# Complexity Analysis
+
+#     Time Complexity:  O(N) considering the list consists of N nodes. 
+#           We process each of the nodes at most once (we don't process the nodes after the nth node from the beginning).
+#     Space Complexity: O(1) since we simply adjust some pointers in the original linked list 
+#           and only use O(1) additional memory for achieving the final result.
+
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
+
 class Solution:
     def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
         # List is consist of three parts
