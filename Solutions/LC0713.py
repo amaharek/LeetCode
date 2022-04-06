@@ -16,4 +16,4 @@ class Solution:
                 prod /= nums[left]
                 left += 1 
             ans += right - left + 1 
-        return ans 
+        return ans  

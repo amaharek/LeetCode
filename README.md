@@ -14,6 +14,7 @@
 | [LC0206.py] | [Reverse Linked List]                                                   |    Easy    |    In-Place Reversal of LL    |
 | [LC0268.py] | [Missing Number]                                                        |    Easy    |        Sort & Hashset         |
 | [LC0713.py] | [Subarray Product Less Than K]                                          |   Medium   | Two Pointers + Sliding Window |
+| [LC0904.py] | [Fruit Into Baskets]                                                    |   Medium   |        Sliding Window         |
 | [LC0968.py] | [Interval List Intersections]                                           |   Medium   |        Merge Intervals        |
 | [LC0977.py] | [Squares of a Sorted Array]                                             |    Easy    |         Two Pointers          |
 | [LC1460.py] | [Make Two Arrays Equal by Reversing Sub-arrays] (Reverse to Make Equal) |    Easy    |                               |
@@ -55,6 +56,9 @@
 
 [LC0713.py]: Solutions/LC0713.py?ts=4
 [Subarray Product Less Than K]: https://leetcode.com/problems/subarray-product-less-than-k/
+
+[LC0904.py]: Solutions/LC0904.py?ts=4
+[Fruit Into Baskets]: https://leetcode.com/problems/fruit-into-baskets/
 
 [LC0968.py]: Solutions/LC0968.py?ts=4
 [Interval List Intersections]: https://leetcode.com/problems/interval-list-intersections/
