@@ -3,6 +3,7 @@
 |  Solution   | Problem Statement                                                       | Difficulty |             Tags              |
 |:-----------:|-------------------------------------------------------------------------|:----------:|:-----------------------------:|
 | [LC0001.py] | [Two Sum]                                                               |    Easy    |                               |
+| [LC0050.py] | [Pow(x, n)]                                                               |    Medium    |                               |
 | [LC0069.py] | [Sqrt(x)]                                                               |    Easy    |         Binary Search         |
 | [LC0075.py] | [Sort Colors]                                                           |   Medium   |         Two Pointers          |
 | [LC0080.py] | [Remove Duplicates from Sorted Array II]                                |   Medium   |         Two Pointers          |
@@ -24,6 +25,9 @@
 
 [LC0001.py]: Solutions/LC0001.py?ts=4
 [Two Sum]: https://leetcode.com/problems/two-sum/
+
+[LC0050.py]: Solutions/LC0050.py?ts=4
+[Pow(x, n)]: https://leetcode.com/problems/powx-n/
 
 [LC0069.py]: Solutions/LC0069.py?ts=4
 [Sqrt(x)]: https://leetcode.com/problems/sqrtx/
