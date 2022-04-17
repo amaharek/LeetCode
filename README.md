@@ -3,7 +3,7 @@
 |  Solution   | Problem Statement                                                       | Difficulty |             Tags              |
 |:-----------:|-------------------------------------------------------------------------|:----------:|:-----------------------------:|
 | [LC0001.py] | [Two Sum]                                                               |    Easy    |                               |
-| [LC0050.py] | [Pow(x, n)]                                                               |    Medium    |                               |
+| [LC0050.py] | [Pow(x, n)]                                                             |   Medium   |                               |
 | [LC0069.py] | [Sqrt(x)]                                                               |    Easy    |         Binary Search         |
 | [LC0075.py] | [Sort Colors]                                                           |   Medium   |         Two Pointers          |
 | [LC0080.py] | [Remove Duplicates from Sorted Array II]                                |   Medium   |         Two Pointers          |
@@ -13,6 +13,7 @@
 | [LC0103.py] | [Binary Tree Zigzag Level Order Traversal]                              |   Medium   |              BFS              |
 | [LC0107.py] | [Binary Tree Level Order Traversal II]                                  |   Medium   |              BFS              |
 | [LC0121.py] | [Best Time to Buy and Sell Stock]                                       |    Easy    |                               |
+| [LC0125.py] | [Valid Palindrome]                                                      |    Easy    |         Two pointers          |
 | [LC0206.py] | [Reverse Linked List]                                                   |    Easy    |    In-Place Reversal of LL    |
 | [LC0268.py] | [Missing Number]                                                        |    Easy    |        Sort & Hashset         |
 | [LC0713.py] | [Subarray Product Less Than K]                                          |   Medium   | Two Pointers + Sliding Window |
@@ -55,6 +56,9 @@
 
 [LC0121.py]: Solutions/LC0121.py?ts=4
 [Best Time to Buy and Sell Stock]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+[LC0125.py]: Solutions/LC0125.py?ts=4
+[Valid Palindrome]: https://leetcode.com/problems/valid-palindrome/
 
 [LC0206.py]: Solutions/LC0206.py?ts=4
 [Reverse Linked List]: https://leetcode.com/problems/reverse-linked-list/

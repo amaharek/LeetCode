@@ -1,6 +1,6 @@
 # https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solution/
-#     Time complexity: O(n)O(n)O(n). Only a single pass is needed.
-#     Space complexity: O(1)O(1)O(1). Only two variables are used.
+#     Time complexity: O(n). Only a single pass is needed.
+#     Space complexity: O(1). Only two variables are used.
 
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
