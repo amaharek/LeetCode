@@ -12,6 +12,8 @@
 | [LC0102.py] | [Binary Tree Level Order Traversal]                                     |   Medium   |              BFS              |
 | [LC0103.py] | [Binary Tree Zigzag Level Order Traversal]                              |   Medium   |              BFS              |
 | [LC0107.py] | [Binary Tree Level Order Traversal II]                                  |   Medium   |              BFS              |
+| [LC0112.py] | [Path Sum]                                                              |    Easy    |              DFS              |
+| [LC0113.py] | [Path Sum II]                                                           |   Medium   |              DFS              |
 | [LC0121.py] | [Best Time to Buy and Sell Stock]                                       |    Easy    |                               |
 | [LC0125.py] | [Valid Palindrome]                                                      |    Easy    |         Two pointers          |
 | [LC0206.py] | [Reverse Linked List]                                                   |    Easy    |    In-Place Reversal of LL    |
@@ -54,6 +56,13 @@
 
 [LC0107.py]: Solutions/LC0107.py?ts=4
 [Binary Tree Level Order Traversal II]: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+
+[LC0112.py]: Solutions/LC0112.py?ts=4
+[Path Sum]: https://leetcode.com/problems/path-sum/
+
+[LC0113.py]: Solutions/LC0113.py?ts=4
+[Path Sum II]: https://leetcode.com/problems/path-sum-ii/
+
 
 [LC0121.py]: Solutions/LC0121.py?ts=4
 [Best Time to Buy and Sell Stock]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
