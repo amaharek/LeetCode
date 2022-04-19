@@ -16,6 +16,7 @@
 | [LC0113.py] | [Path Sum II]                                                           |   Medium   |              DFS              |
 | [LC0121.py] | [Best Time to Buy and Sell Stock]                                       |    Easy    |                               |
 | [LC0125.py] | [Valid Palindrome]                                                      |    Easy    |         Two pointers          |
+| [LC0146.py] | [LRU Cache]                                                             |   Medium   |          OrderedDict          |
 | [LC0206.py] | [Reverse Linked List]                                                   |    Easy    |    In-Place Reversal of LL    |
 | [LC0238.py] | [Product of Array Except Self]                                          |   Medium   |                               |
 | [LC0268.py] | [Missing Number]                                                        |    Easy    |        Sort & Hashset         |
@@ -70,6 +71,10 @@
 
 [LC0125.py]: Solutions/LC0125.py?ts=4
 [Valid Palindrome]: https://leetcode.com/problems/valid-palindrome/
+
+[LC0146.py]: Solutions/LC0146.py?ts=4
+[LRU Cache]: https://leetcode.com/problems/lru-cache/
+
 
 [LC0206.py]: Solutions/LC0206.py?ts=4
 [Reverse Linked List]: https://leetcode.com/problems/reverse-linked-list/
