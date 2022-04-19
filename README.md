@@ -4,6 +4,7 @@
 |:-----------:|-------------------------------------------------------------------------|:----------:|:-----------------------------:|
 | [LC0001.py] | [Two Sum]                                                               |    Easy    |                               |
 | [LC0050.py] | [Pow(x, n)]                                                             |   Medium   |                               |
+| [LC0056.py] | [Merge Intervals]                                                       |   Medium   |        Merge Intervals        |
 | [LC0069.py] | [Sqrt(x)]                                                               |    Easy    |         Binary Search         |
 | [LC0075.py] | [Sort Colors]                                                           |   Medium   |         Two Pointers          |
 | [LC0080.py] | [Remove Duplicates from Sorted Array II]                                |   Medium   |         Two Pointers          |
@@ -20,7 +21,7 @@
 | [LC0206.py] | [Reverse Linked List]                                                   |    Easy    |    In-Place Reversal of LL    |
 | [LC0238.py] | [Product of Array Except Self]                                          |   Medium   |                               |
 | [LC0268.py] | [Missing Number]                                                        |    Easy    |        Sort & Hashset         |
-| [LC0415.py] | [Add Strings]                                                        |    Easy    |                 |
+| [LC0415.py] | [Add Strings]                                                           |    Easy    |                               |
 | [LC0680.py] | [Valid Palindrome II]                                                   |    Easy    |         Two pointers          |
 | [LC0713.py] | [Subarray Product Less Than K]                                          |   Medium   | Two Pointers + Sliding Window |
 | [LC0904.py] | [Fruit Into Baskets]                                                    |   Medium   |        Sliding Window         |
@@ -35,6 +36,9 @@
 
 [LC0050.py]: Solutions/LC0050.py?ts=4
 [Pow(x, n)]: https://leetcode.com/problems/powx-n/
+
+[LC0056.py]: Solutions/LC0056.py?ts=4
+[Merge Intervals]: https://leetcode.com/problems/merge-intervals/
 
 [LC0069.py]: Solutions/LC0069.py?ts=4
 [Sqrt(x)]: https://leetcode.com/problems/sqrtx/
