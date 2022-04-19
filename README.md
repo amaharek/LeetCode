@@ -20,6 +20,7 @@
 | [LC0206.py] | [Reverse Linked List]                                                   |    Easy    |    In-Place Reversal of LL    |
 | [LC0238.py] | [Product of Array Except Self]                                          |   Medium   |                               |
 | [LC0268.py] | [Missing Number]                                                        |    Easy    |        Sort & Hashset         |
+| [LC0415.py] | [Add Strings]                                                        |    Easy    |                 |
 | [LC0680.py] | [Valid Palindrome II]                                                   |    Easy    |         Two pointers          |
 | [LC0713.py] | [Subarray Product Less Than K]                                          |   Medium   | Two Pointers + Sliding Window |
 | [LC0904.py] | [Fruit Into Baskets]                                                    |   Medium   |        Sliding Window         |
@@ -84,6 +85,9 @@
 
 [LC0268.py]: Solutions/LC0268.py?ts=4
 [Missing Number]: https://leetcode.com/problems/missing-number/
+
+[LC0415.py]: Solutions/LC0415.py?ts=4
+[Add Strings]: https://leetcode.com/problems/add-strings/
 
 [LC0680.py]: Solutions/LC0680.py?ts=4
 [Valid Palindrome II]: https://leetcode.com/problems/valid-palindrome-ii/
