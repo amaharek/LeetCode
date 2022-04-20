@@ -11,6 +11,7 @@
 | [LC0088.py] | [Merge Sorted Array]                                                    |    Easy    |         Two Pointers          |
 | [LC0092.py] | [Reverse Linked List II]                                                |   Medium   |    In-Place Reversal of LL    |
 | [LC0102.py] | [Binary Tree Level Order Traversal]                                     |   Medium   |              BFS              |
+| [LC0098.py] | [Validate Binary Search Tree]                                                |   Medium   |        |
 | [LC0103.py] | [Binary Tree Zigzag Level Order Traversal]                              |   Medium   |              BFS              |
 | [LC0107.py] | [Binary Tree Level Order Traversal II]                                  |   Medium   |              BFS              |
 | [LC0112.py] | [Path Sum]                                                              |    Easy    |              DFS              |
@@ -54,6 +55,10 @@
 
 [LC0092.py]: Solutions/LC0092.py?ts=4
 [Reverse Linked List II]: https://leetcode.com/problems/reverse-linked-list-ii/
+
+[LC0098.py]: Solutions/LC0098.py?ts=4
+[Validate Binary Search Tree]: https://leetcode.com/problems/validate-binary-search-tree/
+
 
 [LC0102.py]: Solutions/LC0102.py?ts=4
 [Binary Tree Level Order Traversal]: https://leetcode.com/problems/binary-tree-level-order-traversal/
