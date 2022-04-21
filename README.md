@@ -11,7 +11,7 @@
 | [LC0088.py] | [Merge Sorted Array]                                                    |    Easy    |         Two Pointers          |
 | [LC0092.py] | [Reverse Linked List II]                                                |   Medium   |    In-Place Reversal of LL    |
 | [LC0102.py] | [Binary Tree Level Order Traversal]                                     |   Medium   |              BFS              |
-| [LC0098.py] | [Validate Binary Search Tree]                                                |   Medium   |        |
+| [LC0098.py] | [Validate Binary Search Tree]                                           |   Medium   |                               |
 | [LC0103.py] | [Binary Tree Zigzag Level Order Traversal]                              |   Medium   |              BFS              |
 | [LC0107.py] | [Binary Tree Level Order Traversal II]                                  |   Medium   |              BFS              |
 | [LC0112.py] | [Path Sum]                                                              |    Easy    |              DFS              |
@@ -19,10 +19,13 @@
 | [LC0121.py] | [Best Time to Buy and Sell Stock]                                       |    Easy    |                               |
 | [LC0125.py] | [Valid Palindrome]                                                      |    Easy    |         Two pointers          |
 | [LC0146.py] | [LRU Cache]                                                             |   Medium   |          OrderedDict          |
+| [LC0171.py] | [Excel Sheet Column Number]                                             |    Easy    |                               |
 | [LC0206.py] | [Reverse Linked List]                                                   |    Easy    |    In-Place Reversal of LL    |
+| [LC0236.py] | [Lowest Common Ancestor of a Binary Tree]                               |   Medium   |                               |
 | [LC0238.py] | [Product of Array Except Self]                                          |   Medium   |                               |
 | [LC0268.py] | [Missing Number]                                                        |    Easy    |        Sort & Hashset         |
 | [LC0415.py] | [Add Strings]                                                           |    Easy    |                               |
+| [LC0468.py] | [Validate IP Address]                                                   |   Medium   |                               |
 | [LC0680.py] | [Valid Palindrome II]                                                   |    Easy    |         Two pointers          |
 | [LC0713.py] | [Subarray Product Less Than K]                                          |   Medium   | Two Pointers + Sliding Window |
 | [LC0904.py] | [Fruit Into Baskets]                                                    |   Medium   |        Sliding Window         |
@@ -59,7 +62,6 @@
 [LC0098.py]: Solutions/LC0098.py?ts=4
 [Validate Binary Search Tree]: https://leetcode.com/problems/validate-binary-search-tree/
 
-
 [LC0102.py]: Solutions/LC0102.py?ts=4
 [Binary Tree Level Order Traversal]: https://leetcode.com/problems/binary-tree-level-order-traversal/
 
@@ -75,7 +77,6 @@
 [LC0113.py]: Solutions/LC0113.py?ts=4
 [Path Sum II]: https://leetcode.com/problems/path-sum-ii/
 
-
 [LC0121.py]: Solutions/LC0121.py?ts=4
 [Best Time to Buy and Sell Stock]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
@@ -85,9 +86,15 @@
 [LC0146.py]: Solutions/LC0146.py?ts=4
 [LRU Cache]: https://leetcode.com/problems/lru-cache/
 
+[LC0171.py]: Solutions/LC0171.py?ts=4
+[Excel Sheet Column Number]: https://leetcode.com/problems/excel-sheet-column-number/
+
 
 [LC0206.py]: Solutions/LC0206.py?ts=4
 [Reverse Linked List]: https://leetcode.com/problems/reverse-linked-list/
+
+[LC0236.py]: Solutions/LC0236.py?ts=4
+[Lowest Common Ancestor of a Binary Tree]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 
 [LC0238.py]: Solutions/LC0238.py?ts=4
 [Product of Array Except Self]: https://leetcode.com/problems/product-of-array-except-self/
@@ -97,6 +104,9 @@
 
 [LC0415.py]: Solutions/LC0415.py?ts=4
 [Add Strings]: https://leetcode.com/problems/add-strings/
+
+[LC0468.py]: Solutions/LC0468.py?ts=4
+[Validate IP Address]: https://leetcode.com/problems/validate-ip-address/
 
 [LC0680.py]: Solutions/LC0680.py?ts=4
 [Valid Palindrome II]: https://leetcode.com/problems/valid-palindrome-ii/
