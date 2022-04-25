@@ -33,6 +33,7 @@
 | [LC0968.py] | [Interval List Intersections]                                           |   Medium   |        Merge Intervals        |
 | [LC0977.py] | [Squares of a Sorted Array]                                             |    Easy    |         Two Pointers          |
 | [LC1460.py] | [Make Two Arrays Equal by Reversing Sub-arrays] (Reverse to Make Equal) |    Easy    |                               |
+| [LC1762.py] | [Buildings With an Ocean View]                                          |   Medium   |                               |
 
 [//]: # (Solutions)
 
@@ -128,3 +129,6 @@
 
 [LC1460.py]: Solutions/LC1460.py?ts=4
 [Make Two Arrays Equal by Reversing Sub-arrays]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
+
+[LC1762.py]: Solutions/LC1762.py?ts=4
+[Buildings With an Ocean View]: https://leetcode.com/problems/buildings-with-an-ocean-view/
