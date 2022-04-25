@@ -3,6 +3,7 @@
 |  Solution   | Problem Statement                                                       | Difficulty |             Tags              |
 |:-----------:|-------------------------------------------------------------------------|:----------:|:-----------------------------:|
 | [LC0001.py] | [Two Sum]                                                               |    Easy    |                               |
+| [LC0033.py] | [Search in Rotated Sorted Array]                                        |   Medium   |         Binary search         |
 | [LC0050.py] | [Pow(x, n)]                                                             |   Medium   |                               |
 | [LC0056.py] | [Merge Intervals]                                                       |   Medium   |        Merge Intervals        |
 | [LC0069.py] | [Sqrt(x)]                                                               |    Easy    |         Binary Search         |
@@ -37,6 +38,9 @@
 
 [LC0001.py]: Solutions/LC0001.py?ts=4
 [Two Sum]: https://leetcode.com/problems/two-sum/
+
+[LC0033.py]: Solutions/LC0033.py?ts=4
+[Search in Rotated Sorted Array]: https://leetcode.com/problems/search-in-rotated-sorted-array/
 
 [LC0050.py]: Solutions/LC0050.py?ts=4
 [Pow(x, n)]: https://leetcode.com/problems/powx-n/
@@ -88,7 +92,6 @@
 
 [LC0171.py]: Solutions/LC0171.py?ts=4
 [Excel Sheet Column Number]: https://leetcode.com/problems/excel-sheet-column-number/
-
 
 [LC0206.py]: Solutions/LC0206.py?ts=4
 [Reverse Linked List]: https://leetcode.com/problems/reverse-linked-list/
