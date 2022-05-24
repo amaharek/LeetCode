@@ -3,6 +3,7 @@
 |  Solution   | Problem Statement                                                       | Difficulty |             Tags              |
 |:-----------:|-------------------------------------------------------------------------|:----------:|:-----------------------------:|
 | [LC0001.py] | [Two Sum]                                                               |    Easy    |                               |
+| [LC0003.py] | [Longest Substring Without Repeating Characters]                        |   Medium   |        Sliding Window         |
 | [LC0033.py] | [Search in Rotated Sorted Array]                                        |   Medium   |         Binary search         |
 | [LC0050.py] | [Pow(x, n)]                                                             |   Medium   |                               |
 | [LC0056.py] | [Merge Intervals]                                                       |   Medium   |        Merge Intervals        |
