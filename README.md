@@ -41,6 +41,10 @@
 [LC0001.py]: Solutions/LC0001.py?ts=4
 [Two Sum]: https://leetcode.com/problems/two-sum/
 
+[LC0003.py]: Solutions/LC0003.py?ts=4
+[Longest Substring Without Repeating Characters]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+
 [LC0033.py]: Solutions/LC0033.py?ts=4
 [Search in Rotated Sorted Array]: https://leetcode.com/problems/search-in-rotated-sorted-array/
 
