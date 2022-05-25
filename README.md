@@ -22,11 +22,12 @@
 | [LC0125.py] | [Valid Palindrome]                                                      |    Easy    |         Two pointers          |
 | [LC0146.py] | [LRU Cache]                                                             |   Medium   |          OrderedDict          |
 | [LC0171.py] | [Excel Sheet Column Number]                                             |    Easy    |                               |
-| [LC0199.py] | [Binary Tree Right Side View]                                             |    Medium    |             BFS                  |
+| [LC0199.py] | [Binary Tree Right Side View]                                           |   Medium   |              BFS              |
 | [LC0206.py] | [Reverse Linked List]                                                   |    Easy    |    In-Place Reversal of LL    |
 | [LC0236.py] | [Lowest Common Ancestor of a Binary Tree]                               |   Medium   |                               |
 | [LC0238.py] | [Product of Array Except Self]                                          |   Medium   |                               |
 | [LC0268.py] | [Missing Number]                                                        |    Easy    |        Sort & Hashset         |
+| [LC0347.py] | [Top K Frequent Elements]                                               |   Medium   |             Heap              |
 | [LC0415.py] | [Add Strings]                                                           |    Easy    |                               |
 | [LC0468.py] | [Validate IP Address]                                                   |   Medium   |                               |
 | [LC0680.py] | [Valid Palindrome II]                                                   |    Easy    |         Two pointers          |
