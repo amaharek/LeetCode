@@ -37,6 +37,7 @@
 | [LC0968.py] | [Interval List Intersections]                                           |   Medium   |        Merge Intervals        |
 | [LC0977.py] | [Squares of a Sorted Array]                                             |    Easy    |         Two Pointers          |
 | [LC1460.py] | [Make Two Arrays Equal by Reversing Sub-arrays] (Reverse to Make Equal) |    Easy    |                               |
+| [LC1570.py] | [Dot Product of Two Sparse Vectors]  |    Medium    |                               |
 | [LC1650.py] | [Lowest Common Ancestor of a Binary Tree III]                           |   Medium   |                               |
 | [LC1762.py] | [Buildings With an Ocean View]                                          |   Medium   |                               |
 
@@ -145,6 +146,9 @@
 
 [LC1460.py]: Solutions/LC1460.py?ts=4
 [Make Two Arrays Equal by Reversing Sub-arrays]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
+
+[LC1570.py]: Solutions/LC1570.py?ts=4
+[Dot Product of Two Sparse Vectors]: https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
 
 [LC1650.py]: Solutions/LC1650.py?ts=4
 [Lowest Common Ancestor of a Binary Tree III]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
