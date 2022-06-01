@@ -27,7 +27,7 @@
 | [LC0236.py] | [Lowest Common Ancestor of a Binary Tree]                               |   Medium   |                               |
 | [LC0238.py] | [Product of Array Except Self]                                          |   Medium   |                               |
 | [LC0268.py] | [Missing Number]                                                        |    Easy    |        Sort & Hashset         |
-| [LC0314.py] | [Binary Tree Vertical Order Traversal]                                               |   Medium   |                           |
+| [LC0314.py] | [Binary Tree Vertical Order Traversal]                                  |   Medium   |                               |
 | [LC0347.py] | [Top K Frequent Elements]                                               |   Medium   |             Heap              |
 | [LC0415.py] | [Add Strings]                                                           |    Easy    |                               |
 | [LC0468.py] | [Validate IP Address]                                                   |   Medium   |                               |
