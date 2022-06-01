@@ -27,6 +27,7 @@
 | [LC0236.py] | [Lowest Common Ancestor of a Binary Tree]                               |   Medium   |                               |
 | [LC0238.py] | [Product of Array Except Self]                                          |   Medium   |                               |
 | [LC0268.py] | [Missing Number]                                                        |    Easy    |        Sort & Hashset         |
+| [LC0314.py] | [Binary Tree Vertical Order Traversal]                                               |   Medium   |                           |
 | [LC0347.py] | [Top K Frequent Elements]                                               |   Medium   |             Heap              |
 | [LC0415.py] | [Add Strings]                                                           |    Easy    |                               |
 | [LC0468.py] | [Validate IP Address]                                                   |   Medium   |                               |
@@ -36,6 +37,7 @@
 | [LC0968.py] | [Interval List Intersections]                                           |   Medium   |        Merge Intervals        |
 | [LC0977.py] | [Squares of a Sorted Array]                                             |    Easy    |         Two Pointers          |
 | [LC1460.py] | [Make Two Arrays Equal by Reversing Sub-arrays] (Reverse to Make Equal) |    Easy    |                               |
+| [LC1650.py] | [Lowest Common Ancestor of a Binary Tree III]                           |   Medium   |                               |
 | [LC1762.py] | [Buildings With an Ocean View]                                          |   Medium   |                               |
 
 [//]: # (Solutions)
@@ -117,6 +119,9 @@
 [LC0268.py]: Solutions/LC0268.py?ts=4
 [Missing Number]: https://leetcode.com/problems/missing-number/
 
+[LC0314.py]: Solutions/LC0314.py?ts=4
+[Binary Tree Vertical Order Traversal]: https://leetcode.com/problems/binary-tree-vertical-order-traversal/
+
 [LC0415.py]: Solutions/LC0415.py?ts=4
 [Add Strings]: https://leetcode.com/problems/add-strings/
 
@@ -140,6 +145,10 @@
 
 [LC1460.py]: Solutions/LC1460.py?ts=4
 [Make Two Arrays Equal by Reversing Sub-arrays]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
+
+[LC1650.py]: Solutions/LC1650.py?ts=4
+[Lowest Common Ancestor of a Binary Tree III]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
+
 
 [LC1762.py]: Solutions/LC1762.py?ts=4
 [Buildings With an Ocean View]: https://leetcode.com/problems/buildings-with-an-ocean-view/
