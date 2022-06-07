@@ -1,6 +1,6 @@
 # LeetCode
 
-<p align="center"><img src="../assets/leetcode.png"></p>
+<p align="center"><img src="./assets/leetcode.png"></p>
 
 |  Solution   | Problem Statement                                                       | Difficulty |             Tags              |
 |:-----------:|-------------------------------------------------------------------------|:----------:|:-----------------------------:|
