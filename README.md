@@ -1,5 +1,7 @@
 # LeetCode
 
+<p align="center"><img src="../assets/leetcode.png"></p>
+
 |  Solution   | Problem Statement                                                       | Difficulty |             Tags              |
 |:-----------:|-------------------------------------------------------------------------|:----------:|:-----------------------------:|
 | [LC0001.py] | [Two Sum]                                                               |    Easy    |                               |
