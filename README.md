@@ -10,7 +10,7 @@
 | [LC0069.py] | [Sqrt(x)]                                                               |    Easy    |         Binary Search         |
 | [LC0075.py] | [Sort Colors]                                                           |   Medium   |         Two Pointers          |
 | [LC0080.py] | [Remove Duplicates from Sorted Array II]                                |   Medium   |         Two Pointers          |
-| [LC0088.py] | [Merge Sorted Array]                                                    |    Easy    |         Two Pointers          |
+| [LC0088.py] | [Merge Sorted Array]                                                    |    Easy    |        Three Pointers         |
 | [LC0092.py] | [Reverse Linked List II]                                                |   Medium   |    In-Place Reversal of LL    |
 | [LC0102.py] | [Binary Tree Level Order Traversal]                                     |   Medium   |              BFS              |
 | [LC0098.py] | [Validate Binary Search Tree]                                           |   Medium   |                               |
@@ -36,8 +36,9 @@
 | [LC0904.py] | [Fruit Into Baskets]                                                    |   Medium   |        Sliding Window         |
 | [LC0968.py] | [Interval List Intersections]                                           |   Medium   |        Merge Intervals        |
 | [LC0977.py] | [Squares of a Sorted Array]                                             |    Easy    |         Two Pointers          |
+| [LC1249.py] | [Minimum Remove to Make Valid Parentheses]                              |   Medium   |            stacks             |
 | [LC1460.py] | [Make Two Arrays Equal by Reversing Sub-arrays] (Reverse to Make Equal) |    Easy    |                               |
-| [LC1570.py] | [Dot Product of Two Sparse Vectors]  |    Medium    |                               |
+| [LC1570.py] | [Dot Product of Two Sparse Vectors]                                     |   Medium   |                               |
 | [LC1650.py] | [Lowest Common Ancestor of a Binary Tree III]                           |   Medium   |                               |
 | [LC1762.py] | [Buildings With an Ocean View]                                          |   Medium   |                               |
 
@@ -143,6 +144,9 @@
 
 [LC0977.py]: Solutions/LC0977.py?ts=4
 [Squares of a Sorted Array]: https://leetcode.com/problems/squares-of-a-sorted-array/
+
+[LC1249.py]: Solutions/LC1249.py?ts=4
+[Minimum Remove to Make Valid Parentheses]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 
 [LC1460.py]: Solutions/LC1460.py?ts=4
 [Make Two Arrays Equal by Reversing Sub-arrays]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
