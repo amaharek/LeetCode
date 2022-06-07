@@ -126,6 +126,9 @@
 [LC0314.py]: Solutions/LC0314.py?ts=4
 [Binary Tree Vertical Order Traversal]: https://leetcode.com/problems/binary-tree-vertical-order-traversal/
 
+[LC0347.py]: Solutions/LC0347.py?ts=4
+[Top K Frequent Elements]: https://leetcode.com/problems/top-k-frequent-elements/
+
 [LC0415.py]: Solutions/LC0415.py?ts=4
 [Add Strings]: https://leetcode.com/problems/add-strings/
 
@@ -148,7 +151,7 @@
 [Squares of a Sorted Array]: https://leetcode.com/problems/squares-of-a-sorted-array/
 
 [LC1249.py]: Solutions/LC1249.py?ts=4
-[Minimum Remove to Make Valid Parentheses]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
+[Minimum Remove to Make Valid Parentheses]: https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 
 [LC1460.py]: Solutions/LC1460.py?ts=4
 [Make Two Arrays Equal by Reversing Sub-arrays]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
