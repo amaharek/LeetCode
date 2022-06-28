@@ -1,11 +1,12 @@
-# https://leetcode.com/problems/sort-colors/
-# Time complexity O(n)
-# Space Complexity O(1)
+# https://leetcode.com/problems/sort-colors
+# Time complexity : O(N) since it's one pass along the array of length NNN.
+# Space complexity : O(1) since it's a constant space solution.
 
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
+        Dutch National Flag problem solution
         """
         # for all idx < p0 : nums[idx < p0] = 0
         # curr is an index of element under consideration
