@@ -38,7 +38,7 @@
 | [LC0845.py] | [Longest Mountain in Array]                                             |   Medium   |         Two Pointers          |
 | [LC0904.py] | [Fruit Into Baskets]                                                    |   Medium   |        Sliding Window         |
 | [LC0925.py] | [Long Pressed Name]                                                     |    Easy    |         Two pointers          |
-| [LC0968.py] | [Interval List Intersections]                                           |   Medium   |        Merge Intervals        |
+| [LC0986.py] | [Interval List Intersections]                                           |   Medium   |        Merge Intervals        |
 | [LC0977.py] | [Squares of a Sorted Array]                                             |    Easy    |         Two Pointers          |
 | [LC1249.py] | [Minimum Remove to Make Valid Parentheses]                              |   Medium   |            stacks             |
 | [LC1460.py] | [Make Two Arrays Equal by Reversing Sub-arrays] (Reverse to Make Equal) |    Easy    |                               |
@@ -153,7 +153,7 @@
 [Long Pressed Name]: https://leetcode.com/problems/long-pressed-name/
 
 
-[LC0968.py]: Solutions/LC0968.py?ts=4
+[LC0986.py]: Solutions/LC0986.py?ts=4
 [Interval List Intersections]: https://leetcode.com/problems/interval-list-intersections/
 
 [LC0977.py]: Solutions/LC0977.py?ts=4
