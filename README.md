@@ -37,6 +37,7 @@
 | [LC0713.py] | [Subarray Product Less Than K]                                          |   Medium   | Two Pointers + Sliding Window |
 | [LC0845.py] | [Longest Mountain in Array]                                             |   Medium   |         Two Pointers          |
 | [LC0904.py] | [Fruit Into Baskets]                                                    |   Medium   |        Sliding Window         |
+| [LC0925.py] | [Long Pressed Name]                                                     |    Easy    |         Two pointers          |
 | [LC0968.py] | [Interval List Intersections]                                           |   Medium   |        Merge Intervals        |
 | [LC0977.py] | [Squares of a Sorted Array]                                             |    Easy    |         Two Pointers          |
 | [LC1249.py] | [Minimum Remove to Make Valid Parentheses]                              |   Medium   |            stacks             |
@@ -147,6 +148,10 @@
 
 [LC0904.py]: Solutions/LC0904.py?ts=4
 [Fruit Into Baskets]: https://leetcode.com/problems/fruit-into-baskets/
+
+[LC0925.py]: Solutions/LC0925.py?ts=4
+[Long Pressed Name]: https://leetcode.com/problems/long-pressed-name/
+
 
 [LC0968.py]: Solutions/LC0968.py?ts=4
 [Interval List Intersections]: https://leetcode.com/problems/interval-list-intersections/
